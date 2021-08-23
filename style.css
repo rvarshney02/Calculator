@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #FFC7C7 , #DCD6F7);
+  }
+  h1{
+    font-family: 'Klee One', cursive;
+  }
+.container{
+  text-align: center;
+  margin: 100px auto;
+  padding-bottom: 10px;
+}
+.calculator{
+  border-radius: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px;
+  background-color: #AEE1E1;
+}
+table{
+  margin: auto;
+  padding-top: 24px;
+}
+button{
+  font-size: 25px;
+  width: 70px;
+  border-radius: 15px;
+  background-color: #DCEDC1;
+  border: 1px solid white;
+}
+button:hover{
+  background: white;
+}
+input{
+  font-size: 25px;
+  width: auto;
+  height: 30px;
+  border-radius: 35px;
+}
